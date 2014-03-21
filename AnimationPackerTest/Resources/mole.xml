@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animation>
+  <Plists>
+    <Plist>mole.plist</Plist>
+  </Plists>
+  <Frames>
+    <Frame name="frame_mole_laugh1.png">
+      <Module plist="mole.plist" clip="mole_laugh1.png" x="23" y="-26" trans="0" />
+      <Module plist="mole.plist" clip="mole_thump1.png" x="-107" y="-12" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_laugh2.png">
+      <Module plist="mole.plist" clip="mole_laugh2.png" x="0" y="-1" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_laugh3.png">
+      <Module plist="mole.plist" clip="mole_laugh3.png" x="0" y="-1" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_thump1.png">
+      <Module plist="mole.plist" clip="mole_thump1.png" x="0" y="-1" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_thump2.png">
+      <Module plist="mole.plist" clip="mole_thump2.png" x="0" y="-1" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_thump3.png">
+      <Module plist="mole.plist" clip="mole_thump3.png" x="0" y="-1" trans="0" />
+    </Frame>
+    <Frame name="frame_mole_thump4.png">
+      <Module plist="mole.plist" clip="mole_thump4.png" x="0" y="-1" trans="0" />
+    </Frame>
+  </Frames>
+  <Actions>
+    <Action name="action_1">
+      <Sequence duration="1" id="0" />
+      <Sequence duration="2" id="1" />
+      <Sequence duration="2" id="2" />
+      <Sequence duration="2" id="1" />
+    </Action>
+    <Action name="action_2">
+      <Sequence duration="1" id="3" />
+      <Sequence duration="1" id="4" />
+      <Sequence duration="1" id="5" />
+      <Sequence duration="1" id="6" />
+    </Action>
+  </Actions>
+</Animation>
+
